@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.box{
+  height: 500px;
+  background-color: rgb(216, 18, 18);
+
+}
+.dayLight{
+  background-color: yellow;
+}
